@@ -2,14 +2,14 @@
   "response": [
     {
       "buildtype": "Vanilla",
-      "download": "https://github.com/omegas-super/m31-ota/releases/download/v12.4-20261115/EvolutionX-17.0-20261115-m31-12.4-Vanilla-Unofficial.zip",
-      "filename": "EvolutionX-17.0-20261115-m31-12.4-Vanilla-Unofficial.zip",
+      "download": "https://github.com/omegas-super/m31-ota/releases/download/v12.4-20261116/EvolutionX-17.0-20261116-m31-12.4-Vanilla-Unofficial.zip",
+      "filename": "EvolutionX-17.0-20261116-m31-12.4-Vanilla-Unofficial.zip",
       "maintainer": "omegas-super",
       "os_patch_level": "2026-11-01",
       "os_sdk_level": 37,
-      "sha256": "04a03017b1f811d173cf0e6cd75b8f53764d104f46d383e93a9a2a125cea13a8",
-      "size": 1731930855,
-      "timestamp": 1794717052,
+      "sha256": "f62e2f326bd1d258f497e944ab851d90ce7a21704328d1eae8ffd43998892f2c",
+      "size": 1732899241,
+      "timestamp": 1794768746,
       "version": "12.4"
     }
   ]
